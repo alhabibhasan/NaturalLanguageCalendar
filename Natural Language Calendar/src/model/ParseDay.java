@@ -3,7 +3,9 @@ package model;
 import java.util.Calendar;
 import java.util.Date;
 
-
+/**
+* Created by: Adriel Aiach-Kohen
+*/
 public class ParseDay {
 	public enum days {
 		Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday
