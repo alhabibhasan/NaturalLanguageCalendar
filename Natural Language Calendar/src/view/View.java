@@ -20,7 +20,9 @@ import javax.swing.JTabbedPane;
 import javax.swing.JTextField;
 
 import control.Control;
-
+/**
+* Created by: Al Habib Hasan and Adriel Aiach-Kohen
+*/
 public class View extends JFrame implements Observer {
 
 	Control control;
